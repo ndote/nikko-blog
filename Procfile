@@ -1,0 +1,1 @@
+web: gunicorn app: blog_by_nikko/main:app
